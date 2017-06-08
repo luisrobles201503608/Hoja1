@@ -367,7 +367,7 @@ public String conte,nombre,apellido,nombrei,apellidoi;
          pivote2=pivote2+b[j];   
         }
         apellidoi=pivote2;
-       jTextField7.setText(""+nombrei+" "+apellidoi);
+       jTextField7.setText(""+nombrei+" "+apellidoi+"_201503608");
     }//GEN-LAST:event_jButton3ActionPerformed
 
     private void jButton4ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton4ActionPerformed
