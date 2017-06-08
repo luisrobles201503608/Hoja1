@@ -1,0 +1,5 @@
+Commit: es un encabezado para cada cambio que se ha realizado en el repositorio
+Merge: nos sirve para fusionar otra rama a una ya activa.
+Pull: nos sirve para poder bajar nuestro ultimo commit de la nube es decir al ultimo que le hicimos push
+el push seria la accion de subir nuestro commit con el archivo a la nube github.
+Como trabajar con Branch: Para crear una nueva rama y saltar a ella, en un solo paso, puedes utilizar el comando git checkout con la opción -b
